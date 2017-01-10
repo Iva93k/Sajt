@@ -1,6 +1,7 @@
 body {
     margin: 0;
 	font-family:"Arial", Helvetica, sans-serif;
+	background-color: #ffe6e6;
 }
 
 #menu {
@@ -10,6 +11,8 @@ body {
     padding: 18px;
     position: relative;
 }
+
+
 
 .logo {
     margin-right: 50px;
@@ -44,14 +47,62 @@ body {
 }
 
 .dropdown.first {
-    left: 348px;
+    left: 298px;
 }
 
 .dropdown.second {
-    left: 446px;
+    left: 396px;
 }
 
 .dropdown.third {
-    left: 525px;
+    left: 475px;
 }
 
+a:link    {color:rose; background-color:transparent; text-decoration:none}
+a:visited {color:purple; background-color:transparent; text-decoration:none}
+a:hover   {color:rose; background-color:transparent; text-decoration:none}
+a:active  {color:#ffe6e6; background-color:transparent; text-decoration:none}
+
+h1{
+	
+	font-family:"Times New Roman", sans-serif;
+	font-size:22px;
+	color:#800080;
+	border-style:hide;
+	border-color:#ff66ff;
+	background:#e6e6e6;
+	margin-left:20px;
+	margin-right:500px;
+	text-align: center;
+	margin-top:-355px;
+}
+h2{
+	font-family:"Times New Roman", sans-serif;
+	font-size:22px;
+	color:#800080;
+	border-style:hide;
+	border-color:#ff66ff;
+	background:#e6e6e6;
+	margin-left:20px;
+	margin-right:500px;
+	text-align: center;
+	
+}
+h3{
+	font-family:"Times New Roman", sans-serif;
+	font-size:22px;
+	color:#800080;
+	border-style:hide;
+	border-color:#ff66ff;
+	background:#e6e6e6;
+	margin-left:20px;
+	margin-right:500px;
+	text-align: center;
+	
+}
+h4{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color:#d7d7c1;
+}

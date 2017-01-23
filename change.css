@@ -17,8 +17,6 @@ body {
 	
 }
 
-
-
 header.topnav li.icon {display: none;}
 
 @media screen and (max-width:680px) {
@@ -460,7 +458,7 @@ th {
 }
 
 .panel-footer{
-	/*margin-left:10px;*/
+	
 	font-family:"Arial", sans-serif;
 	font-size:small;
 	border-top:2px solid #ffe6ff;
